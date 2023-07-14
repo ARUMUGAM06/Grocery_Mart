@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    width: 250px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#image{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+}
+.types{
+    margin-bottom: 10px;
+    margin-top: 1px;
+}
+#fresh{
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+}
+#quantity{
+    padding: 5px;
+}
+#search{
+    padding: 5px;
+    padding-right: 50px;
+}
+.delievery{
+    font-size: 12px;
+}
+#earch{
+    width:1000px;
+    height: 25px;
+    border-radius: 5px;
+    display: inline;
+    border-width:0.5px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
